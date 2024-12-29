@@ -1,0 +1,280 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PHYS 301 Winter 2025",
+    "section": "",
+    "text": "Welcome to the Winter 2025 class of PHYS 301!\nIf this is your first time on the course website, I recommend you\nStart Here"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "PHYS 301 Winter 2025",
+    "section": "Course Description",
+    "text": "Course Description\nYou can see the PHYS 301 course description here."
+  },
+  {
+    "objectID": "index.html#course-objectives",
+    "href": "index.html#course-objectives",
+    "title": "PHYS 301 Winter 2025",
+    "section": "Course Objectives",
+    "text": "Course Objectives\nBy the end of this course, you will be able to"
+  },
+  {
+    "objectID": "index.html#course-topics",
+    "href": "index.html#course-topics",
+    "title": "PHYS 301 Winter 2025",
+    "section": "Course Topics",
+    "text": "Course Topics\nThis course covers the following content:\n\nTranslating a physical scenario into a mathematical equation"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Videos: Khan Academy’s unit on multivariable calc\nVideos: Khan Academy’s unit on series and approximations",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#contentresources",
+    "href": "resources.html#contentresources",
+    "title": "Resources",
+    "section": "",
+    "text": "Videos: Khan Academy’s unit on multivariable calc\nVideos: Khan Academy’s unit on series and approximations",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#profdevresources",
+    "href": "resources.html#profdevresources",
+    "title": "Resources",
+    "section": "Study and Professional Skills Resources",
+    "text": "Study and Professional Skills Resources\nWebsite: SASC General Study Strategies\nVideo: how to get the most out of studying\nArticle: how to take notes\nArticle: the Urgent/Important Matrix for prioritization\nVideo: the Urgent/Important Matrix for prioritization",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#mentalhealthresources",
+    "href": "resources.html#mentalhealthresources",
+    "title": "Resources",
+    "section": "Mental Health Resources",
+    "text": "Mental Health Resources\n\nSelf-care and stress resources\nSelf-care flow chart\nBates College well-being site\n\n\nCrisis resources\nBates Counseling and Psychological Services\nBates Title IX and Civil Rights Compliance Office: If you are experiencing harassment or discrimination, you can get help here.\nPlease note that I am a responsible reporter, which means that I am required to share with the Title IX Coordinator “all knowledge of discrimination harassment, and/or retaliation witnessed or shared with” me.\nYou can always choose what you reveal to me if you come to speak with me about something that’s going on. I won’t ever insist that you tell me details that you don’t wish to share.\nThe confidential Resource Advisor is not required to disclose, and is a great resource if you’re facing something big and need some guidance.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "coursecontent.html",
+    "href": "coursecontent.html",
+    "title": "Concepts in Mechanics",
+    "section": "",
+    "text": "The Four-Step Problem Solving Method\n\nDetermine what key concepts will help you solve the problem\nGather your information – draw a picture, choose a coordinate system, identify “givens” in the problem statement (which are allowed to be in your answer), and determine your goal (what quantity you are solving for and any special conditions for it)\nSolve: find appropriate equations (hint: your key concepts will help a lot here), and use those equations and math tools to eliminate all unknowns and lead to your answer.\nAssess your answer. Check units and use some logical reasoning to defend your answer (or explain why it’s wrong). Some methods you could use for the reasoning includes making predictions and seeing if your result matches those predictions, relating the answer to something you know (e.g. plugging in specific numbers and checking if they match real-world scenarios), and evaluating the equation (check limits and special cases, make sure it does what you expect)\n\n\n\nPhysics Concepts\n\nKinematicsForcesCollisions and InteractionsEnergyRotation\n\n\nPosition, velocity, and acceleration and the time derivatives/integrals that relate them\nSpecial types of kinematics:\n\nExpressing position, velocity, and acceleration in polar coordinates\nConstant speed, fixed length, and constant acceleration motion\n\n\n\nNewton’s first law and inertial frames\nNewton’s second law and relating forces to motion\nNewton’s third law and force-related interactions between objects\nIn addition, we have seen the following forces:\n\nGravity (on a planet)\nUniversal Gravitation (Gravity in space)\nTension\nPush and pull forces\nNormal force\nStatic friction (three cases: definitely not moving, maybe going to move, on the verge of moving)\nKinetic friction\nVelocity-dependent forces (drag, etc)\nSpring force\n\n\n\nImpulse and change in momentum\nConservation of linear momentum\nCollisions\n\nElastic\nInelastic\nPerfectly inelastic (stick together)\nExplosion (reverse perfectly inelastic)\n\n\n\nWork and kinetic energy\nWork done by conservative v. nonconservative forces\nPotential energy\nConservation of mechanical energy\n\n\nAngular momentum of a particle\nAngular momentum of an extended object\nTorque and Newton’s 2nd Law for Rotation\nRotational kinetic energy\nConservation of angular momentum\n\n\n\n\n\nMath Tools\n\nApproximationsCurvilinear Coordinate SystemsIntegrals\n\n\nUsing Taylor/MacLauren series when dealing with something small\nList of common series\n\n\nWorking in polar coordinates, including:\n\nTime derivatives of vectors in polar coordinates\nTime dependence of unit vectors in polar coordinates\nTranslating between Cartesian and polar coordinates\n\n\n\nSeparating and integrating simple ODEs\nCommon integrals and derivatives",
+    "crumbs": [
+      "Concepts in Mechanics"
+    ]
+  },
+  {
+    "objectID": "starthere.html",
+    "href": "starthere.html",
+    "title": "Start Here",
+    "section": "",
+    "text": "Welcome to PHYS 211, Fall 2024!\nNot sure where to start? I’ve put together a guide.\nThis website contains the syllabus, schedule, and FAQ. If you are looking for handouts, in-class activities, specific assignments, or class slides, those will all be in the course page in Lyceum. If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.\n\nGet the textbook\nIf you have not yet, please make sure you get the textbook for this class, which is “An Introduction to Mechanics, 2nd edition” by Kleppner & Kolenkow (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.\n\nIt is very important that you get the second edition, as the pagination is different in other editions.\n\n\nFill out the welcome form\nThe first thing you should do for this class is fill out the welcome form. This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!\n\n\nRead the syllabus\nI’ve tried to make the syllabus relatively short, sweet, and well-organized. It’s all on this website, so please take a minute to read the syllabus page.\n\n\nKeep an eye on the schedule\nThe schedule for this class is in a google doc so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.\n\n\nStill have questions?\nIf you’ve read the syllabus and still have questions, check out the FAQ. If you have a question that’s not answered on that page, please feel free to email me! I’ve tried to collect the kinds of questions I get the most to save you time, but I know that not all questions can be answered with this website and am always happy to hear from you.\n\n\nHave concerns?\nI know it can be intimidating to talk to a professor about sensitive topics. If something has made you uncomfortable, or if you think there is something I should know about, but don’t feel comfortable speaking with me directly, I have an anonymous feedback form you can fill out.\nThis form does not collect any identifying information (though you are welcome to leave your name if you want me to follow up with you). Please be respectful and thoughtful when filling out this form, as I use it to improve classroom dynamics and it’s here to make everyone’s experience better.",
+    "crumbs": [
+      "Start Here"
+    ]
+  },
+  {
+    "objectID": "FAQ.html",
+    "href": "FAQ.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "When: Monday, Wednesday, and Friday, 2:40PM-4:00PM\nWhere: Carnegie 225",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#when-and-where-is-class",
+    "href": "FAQ.html#when-and-where-is-class",
+    "title": "FAQ",
+    "section": "",
+    "text": "When: Monday, Wednesday, and Friday, 2:40PM-4:00PM\nWhere: Carnegie 225",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#where-do-i-get-my-textbook",
+    "href": "FAQ.html#where-do-i-get-my-textbook",
+    "title": "FAQ",
+    "section": "Where do I get my textbook?",
+    "text": "Where do I get my textbook?\nThe textbook for this class is “An Introduction to Mechanics, 2nd edition” by Kleppner & Kolenkow (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.\nTo find the library copies, go to librarysearch.bates.edu and search for the course number or my name. Write down the book’s call number and ask for it at the library.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#officehours",
+    "href": "FAQ.html#officehours",
+    "title": "FAQ",
+    "section": "When are your office hours?",
+    "text": "When are your office hours?\nOffice hours:\n\nMondays 11AM-12PM in my research space\nWednesdays 4PM-5PM (right after class) in Carnegie 339\nThursdays 1:30PM-2:30PM in my research space\n\nIf you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#goingtoofficehours",
+    "href": "FAQ.html#goingtoofficehours",
+    "title": "FAQ",
+    "section": "Should I go to office hours?",
+    "text": "Should I go to office hours?\nOffice hours are my open hours, when I have specifically set aside time to talk to my students (that’s you!). Please always feel free to come by. You can ask questions about homework, concepts from class, projects, careers in physics, navigating the major, or anything else you want to ask. I will prioritize questions about course content, but I’m always happy to talk about other questions you might have.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#findstuff",
+    "href": "FAQ.html#findstuff",
+    "title": "FAQ",
+    "section": "Where do I find assignment instructions/course handouts/slides?",
+    "text": "Where do I find assignment instructions/course handouts/slides?\nI created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class slides and/or recordings will all be in the course page on Lyceum.\nIf you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#duedates",
+    "href": "FAQ.html#duedates",
+    "title": "FAQ",
+    "section": "When is __ due?",
+    "text": "When is __ due?\nYou can find all due dates on the course schedule. Dates are subject to change, but will always be kept up to date on the schedule so check back if you’re not sure.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#extensionpolicy",
+    "href": "FAQ.html#extensionpolicy",
+    "title": "FAQ",
+    "section": "Can I have an extension?",
+    "text": "Can I have an extension?\nIn general, I am happy to work with you on deadlines, but it’s important for you to communicate with me. You can request extensions using this form.\nPlease note that the 48 hour extension is automatically granted, while anything longer than that requires that we have a conversation. That conversation starts by you proposing a new deadline in the form, and then I can talk to you about what’s possible or reasonable given the course schedule, your circumstances, and other factors that may vary as the semester progresses.\nSome assignments cannot be extended, and you can learn more about that by reading more about the specific assignments.\nFor more on my deadlines and extension policy, see the syllabus.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#revisionpolicy",
+    "href": "FAQ.html#revisionpolicy",
+    "title": "FAQ",
+    "section": "Can I re-do something I did poorly on?",
+    "text": "Can I re-do something I did poorly on?\nYou can re-take the unit tests, but the rest of the assignments can only be submitted once.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#emails",
+    "href": "FAQ.html#emails",
+    "title": "FAQ",
+    "section": "When will you reply to my email?",
+    "text": "When will you reply to my email?\nTimely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.\nIf you email me on a weekday, you can expect a response from me within 24 hours. If you email me on a weekend or a holiday, you can expect a response from me by class time on the first day back.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#gradingcurve",
+    "href": "FAQ.html#gradingcurve",
+    "title": "FAQ",
+    "section": "Do you grade on a curve?",
+    "text": "Do you grade on a curve?\nGrades are not curved; your grade depends only on your own performance. Supporting your fellow students will help every one of you, and I hope you will work together on homeworks and study together for tests.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#ChatGPT",
+    "href": "FAQ.html#ChatGPT",
+    "title": "FAQ",
+    "section": "Can I use ChatGPT in this class?",
+    "text": "Can I use ChatGPT in this class?\nLarge Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, I only require two things:\n\nThat you do a little reading on Large Language Models. Specifically, read this article about how LLMs actually work and this article about the ethical considerations around LLMs\nThat you consider the LLM a source that you must cite. If you use generative AI to help with any assignment, you must acknowledge that help and give a short (two-sentence) description of what the LLM did for you and how it helped you solve the problem.\n\nRemember that LLMs are designed to predict the most probable response to a question, which is not always the best or even correct response. They are prone to “hallucinating” (making stuff up, often in a way that is convincing but still false). They can’t do creative problem solving, which is the most important skill we are trying to develop in this class.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#catchingup",
+    "href": "FAQ.html#catchingup",
+    "title": "FAQ",
+    "section": "What should I do if I get behind on my work?",
+    "text": "What should I do if I get behind on my work?\nFirst, reach out to me. It helps me to know that you are working on catching up. I am also happy to meet and help you set adjusted deadlines to get back on track.\nSecond, if you are feeling really overwhelmed, consider scheduling an appointment with a learning strategies tutor at the Student Academic Support Center. Their role is to support students seeking help with time management, organization, reading, test-taking, note-taking, and other academic skills. They can help you talk through what strategies work for you, what strategies don’t, and how to manage your time and energy in a more sustainable way.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#accommodations",
+    "href": "FAQ.html#accommodations",
+    "title": "FAQ",
+    "section": "I have academic accommodations. What should I do?",
+    "text": "I have academic accommodations. What should I do?\nI have tried to bring the concept of universal design into how I have planned and structured this course, so I hope that any accommodations you have are already built into this course (aside from extra time on tests, which can’t be accommodated during class times, but you can take the tests through Accessible Education and Student Support. However, I don’t expect to have done this perfectly (as there is no such thing), so if you have need of certain accommodations that are not already provided by this class, please let me know and I will do my best to meet those needs.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "FAQ.html#extrahelp",
+    "href": "FAQ.html#extrahelp",
+    "title": "FAQ",
+    "section": "What if I need more support in this class?",
+    "text": "What if I need more support in this class?\nThe Student Academic Support Center (SASC) has lots of tutors who can help you strengthen your math skills, problem solving skills, and study skills. Please reach out to them to see how they can help, in addition to coming to my office hours, where I am more than happy to walk through problems with you.",
+    "crumbs": [
+      "FAQ"
+    ]
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "What you can expect from meWhat I expect from youWhat is not expected\n\n\n\nI will stay home if I am feeling sick and make arrangements to deliver the course material\nI will work with you to arrange accommodations when you need them\nI will respect your time by starting and ending class on time\nI will answer your questions thoughtfully, and if I don’t know the answer, I will follow up in a timely manner\nI will embrace who you are as whole people\nI will model respect, openness, and engagement, and foster a supportive and inclusive environment\nI will be honest when I make mistakes, because failure is part of growing\n\n\n\n\nThat you will stay home if you are sick and contact me via email to arrange accommodations\nThat you genuinely attempt to engage with the course\nThat you ask questions if you are confused (you may do this privately – there is no obligation to ask during class hours)\nThat you communicate with me when you have problems that interfere with your ability to engage with the coursework\nThat you treat your peers with respect and openness, and that you participate in creating an inclusive, supportive, and engaged classroom\n\n\n\n\nPerfection. Ever. It’s a myth.\nThat you will ‘sit still’ or ask for permission to leave the classroom to go to the bathroom or if you just need a minute.\nThat everyone will learn in the same way. You do not have to match some “model student” to do well in this class",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#classexpectations",
+    "href": "syllabus.html#classexpectations",
+    "title": "Syllabus",
+    "section": "",
+    "text": "What you can expect from meWhat I expect from youWhat is not expected\n\n\n\nI will stay home if I am feeling sick and make arrangements to deliver the course material\nI will work with you to arrange accommodations when you need them\nI will respect your time by starting and ending class on time\nI will answer your questions thoughtfully, and if I don’t know the answer, I will follow up in a timely manner\nI will embrace who you are as whole people\nI will model respect, openness, and engagement, and foster a supportive and inclusive environment\nI will be honest when I make mistakes, because failure is part of growing\n\n\n\n\nThat you will stay home if you are sick and contact me via email to arrange accommodations\nThat you genuinely attempt to engage with the course\nThat you ask questions if you are confused (you may do this privately – there is no obligation to ask during class hours)\nThat you communicate with me when you have problems that interfere with your ability to engage with the coursework\nThat you treat your peers with respect and openness, and that you participate in creating an inclusive, supportive, and engaged classroom\n\n\n\n\nPerfection. Ever. It’s a myth.\nThat you will ‘sit still’ or ask for permission to leave the classroom to go to the bathroom or if you just need a minute.\nThat everyone will learn in the same way. You do not have to match some “model student” to do well in this class",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#assignments",
+    "href": "syllabus.html#assignments",
+    "title": "Syllabus",
+    "section": "Assignments and Grading",
+    "text": "Assignments and Grading\nAssignments fall into “bundles,” which contribute to your grade in specific ways. Your performance on each bundle determines your rough letter grade (full letters). Beyond that, you can achieve grade boosts, which round your grade up, e.g. from a B to a B+, or a B+ to an A-.\nYou can learn more about each bundle below:\nPCQs\nWHWs\nFinal Portfolio\nUnit Tests\nProblem Projects\n\nGrading Scheme\n\n\nTable of letter grades\n\nLetter grades\n\n\n\n\n\n\n\n\n\n\nLetter grade\nPre-Class Questions (PCQs)\nWeekly Homeworks (WHWs)\nPortfolio\nUnit tests (x3)\nProblem projects (x2)\n\n\n\n\nD\nComplete 70%\nEarn 60% of points\nAt least M on 4 problems\nAt least M on 1\nOptional (replaces a grade item)\n\n\nC\nComplete 70%\nEarn 60% of points\nAt least M on 6 problems\nAt least M on 2\nOptional (replaces a grade item)\n\n\nB\nComplete 70%\nEarn 60% of points\nAt least M on all problems, plus 1 E\nAt least M on all 3\nMust attempt one (replaces a grade item)\n\n\nA\nComplete 70%\nEarn 60% of points\nAt least M on all problems, plus 3 Es\nAt least M on all 3, plus E on at least 1\nMust achieve an M on one (replaces a grade item)\n\n\n\n\n\nBundle visualization\n\n\n\nGrading scales\n\nPointsCompletionE/M/U/N\n\n\nHomeworks will be graded on a points scale: each WHW is worth 100 points, and you can earn a portion of those points by successfully and thoroughly solving the problem on the homework.\n\n\nPre-class questions will be graded on completion. What this means is that you must give a good-faith attempt at the problem, but do not need to get it correct. If you turn nothing in, or turn in something that is incomplete or unrelated, you will get no credit for the PCQ.\n\n\nUnit tests, individual final portfolio problems, and the two problem projects will be graded on the following scale:\n\nE: excellent – this is a thorough and correct answer that demonstrates excellent understanding of the concepts and makes proper use of the mathematical skills expected in this class.\nM: meets expectations – this is an answer that demonstrates solid understanding of the concepts but perhaps includes some small mathematical errors or minor conceptual mistakes.\nU: unsatisfactory / does not meet expectations – this is an answer that applies the concepts incorrectly, misunderstands the point of the question, does not complete the question, fails to follow directions, and/or contains significant mathematical errors\nN: no submission – if you turn nothing in, you will receive an N.\n\nE and M are considered passing grades. To get an A or B in this class, you must achieve some Es (see the grading scheme)\nU and N are considered failing grades.\n\n\n\n\n\nGrading bundles\n\nPCQsWHWsFinal PortfolioUnit testsProblem Projects\n\n\nIn order to get the most out of class, you need to prepare. To do this, most days we will have a pre-class question due in Lyceum, which you must submit prior to class start. These are graded on completion, which simply means that you demonstrate a good-faith effort to solve the problem. You do not have to get it right, and we will go over the problem during class.\nGiven the purpose of the PCQs, I will not offer extensions, except in case of a major medical or family emergency that causes you to miss class.\n\n\nRegular problem-solving is very important to developing confidence and skill in this content, so every week you will have a short weekly problem set. You will turn in the weekly problem set by scanning and uploading as a PDF to Moodle. These are due by 8PM each Wednesday.\n5% of each homework is a reflection question, which means that simply responding to it will earn you the points, and each homework is graded out of 100 points. To pass this bundle (which is required to pass the class), you must earn 60% of all the available homework points throughout the semester. In general, the majority of questions will be on material covered on or before the Friday before the WHW is due, but there may be a question on material covered the Monday before the WHW is due. This means you should be able to complete most of the homework before Monday’s class!\nYou may work with classmates on the homework, but please be sure to give credit in your reflection question.\nYou may request extensions on the WHWs using the extension form.\n\n\nThe idea for this final portfolio assignment is to demonstrate what you have learned in the course and to create something for which you can take ownership and feel proud. We will get a lot of practice with problem solving this semester, and this is a chance to go back and curate some of what you have done.\nThe intended audience for this assignment is a fellow student who had not previously seen the homework questions you have chosen, but is curious to know how to solve them. For example, you could imagine yourself at the beginning of the semester, or a classmate earlier this semester who was unsure how to approach a problem. Would that intended audience be able to understand your approach and your logic? Would they feel empowered to learn based on what you have created for them?\nThe assignment will involve redoing 8 homework questions (one from each homework assignment) in a manner that clearly presents the logic and reasoning behind your answers. It will be useful to restate the problem in your own words, clearly identifying known and unknown quantities. In many cases, it will be useful to draw a picture of the situation and to establish a clear coordinate system. You will then want to describe and demonstrate your approach to solving the problem. Once you arrive at an answer, it will also be helpful to reflect on the implications of that answer. This could include a consideration of how the answer depends on certain variables, or how the answer might be different for a slightly different situation.\nEach problem is graded on an E/M/U/N scale, and an E and M are both considered passing grades.\nYou may request an extension on the final portfolio using the extension form. Please note, however, that deadline cannot be extended beyond the end of final exam period.\n\n\nThere will be three unit tests during class throughout this semester. The tests are cumulative, but they will largely focus on the more recent material. These tests will occur in class, and you may bring a single-sided 8.5”x11” sheet of paper with equations and notes - hand-written (please speak to me if you need to type the sheet and we will come up with a plan). This paper will be turned in with your test.\nThese are graded on an E/M/U/N scale, and you may retake each unit test up to two times during the scheduled make-up test days. In order to retake a unit test, you must first correct your first unit test and complete a short reflection in a Google form.\n\n\nThe student becomes the teacher… you will have two opportunities to write a physics problem similar to your homework problems. You must:\n\nselect at least one concept each from two different concept groups\nselect one mathematical tool to highlight\nwrite a physics problem that tests understanding of those concepts and uses the math tool\nwrite up a detailed solution to that problem using the four-step problem solving method\nexplain how your problem tests understanding for the concepts you selected\n\nThese are graded on an E/M/U/N scale, and you may use each problem project score to replace one of the following:\n\nyour WHW score for the semester (an M or higher gives you full credit)\nyour PCQ score for the semester (an M or higher gives you full credit)\none unit test score\none final portfolio problem\n\nI will always replace the grade item that most benefits you, and will never replace a better score with a worse one. The Problem Projects can only help you.\nIf you want to get a B in the class, you have to at least try a problem project, but you do not have to pass. To get an A in the class, you have to pass at least one problem project.\nIf you do two problem projects, they must be different problems (you can’t revise your first problem to get credit for the second problem.)\nYou may request extensions on the problem projects using the extension form. Please note, however, that the final problem project cannot be extended beyond the end of final exam period.\n\n\n\n\n\nGrading boosts\n\nEffort BoostProblem-Solver BoostGrowth BoostMetacognition Boost\n\n\nIf you complete 85% of pre-class questions, turn in every WHW assignment, turn in a complete portfolio, and attempt at least one problem project, you will gain a grade round up for effort, regardless of the outcome of your work.\n\n\nIf you earn at least 90% of the available homework points, you will gain a grade round up for demonstrating strong, consistent problem-solving skills.\n\n\nIf you demonstrate consistent improvement in your work across the semester, I reserve the right to round your grade up.\n\n\nIn order to get this boost, you must do all of the following:\n\nFill out the mid-semester survey before class on 10/25\nAttend the SASC workshop during class on 10/25\nAttend at least one SASC Physics 211 help session and fill out a response about your experience\nSet a SMART goal (this will be evaluated on whether it meets the criteria) for a study skill to improve. You must do this before November 15.\nReflect on your goal at the end of the semester",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#deadlines",
+    "href": "syllabus.html#deadlines",
+    "title": "Syllabus",
+    "section": "Deadlines and Extensions",
+    "text": "Deadlines and Extensions\nIf you need an extension, you may request one using this form. I recognize that things come up and you may require flexibility at some point in the semester. Please feel free to reach out to me directly if you are struggling to meet a deadline. I want to support you and make sure you have the best possible chance for success in this class, and the only way I can help is if you communicate with me.\nIn general, I am happy to be flexible. Please note, however, that some assignments will have stricter deadlines. These assignments include the PCQs and the final portfolio and final problem project, and the nature of the deadlines is discussed in their descriptions above.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  }
+]

@@ -1,19 +1,46 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "PHYS301W25website"
+  title: "PHYS 301 Winter 2025"
   navbar:
+    background: primary #color of background is primary color in palette
+    search: true
+    #left is left-aligned top bar
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: https://phys301.github.io/
+        text: "Course Description"
+        target: _blank #makes it open in new page
+      - href: https://docs.google.com/spreadsheets/d/1Oa5DOrJSYn9FjScxstXVl5GqbK4QU8z5TM0DqPHljqs/edit?usp=sharing
+        text: "Schedule" 
+        target: _blank #makes it open in new page
+      - sidebar:syllabus
+      - sidebar:resources
+            
+  sidebar:
+    - id: syllabus
+      title: "Syllabus and FAQ"
+      style: "docked"
+      background: light
+      contents:
+       - starthere.qmd
+       - syllabus.qmd
+       - FAQ.qmd
+       
+    - id: resources
+      title: "Resources"
+      style: "docked"
+      background: light
+      contents:
+       - coursecontent.qmd
+       - resources.qmd
 
+   
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: bates_yeti.scss
     toc: true
-
-
 
