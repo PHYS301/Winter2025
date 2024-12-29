@@ -1,0 +1,197 @@
+---
+title: "Syllabus"
+format: 
+  html:
+    toc: true
+    link-external-newwindow: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+editor: source
+---
+
+## Classroom expectations {#classexpectations}
+
+::: panel-tabset
+### What you can expect from me
+
+-   I will stay home if I am feeling sick and make arrangements to deliver the course material
+-   I will work with you to arrange accommodations when you need them
+-   I will respect your time by starting and ending class on time
+-   I will answer your questions thoughtfully, and if I don't know the answer, I will follow up in a timely manner
+-   I will embrace who you are as whole people
+-   I will model respect, openness, and engagement, and foster a supportive and inclusive environment
+-   I will be honest when I make mistakes, because failure is part of growing
+
+### What I expect from you
+
+-   That you will stay home if you are sick and contact me via email to arrange accommodations
+-   That you genuinely attempt to engage with the course
+-   That you ask questions if you are confused (you may do this privately -- there is no obligation to ask during class hours)
+-   That you communicate with me when you have problems that interfere with your ability to engage with the coursework
+-   That you treat your peers with respect and openness, and that you participate in creating an inclusive, supportive, and engaged classroom
+
+### What is not expected
+-   Perfection. Ever. It's a myth.
+-   That you will 'sit still' or ask for permission to leave the classroom to go to the bathroom or if you just need a minute.
+-   That everyone will learn in the same way. You do not have to match some "model student" to do well in this class
+:::
+
+## Assignments and Grading {#assignments}
+
+Assignments fall into "bundles," which contribute to your grade in specific ways. Your performance on each bundle determines your rough letter grade (full letters). Beyond that, you can achieve grade boosts, which round your grade up, e.g. from a B to a B+, or a B+ to an A-.
+
+You can learn more about each bundle below:
+
+[PCQs](#pcqs)
+
+[WHWs](#whws)
+
+[Final Portfolio](#portfolio)
+
+[Unit Tests](#tests)
+
+[Problem Projects](#problemproject)
+
+
+### Grading Scheme {#gradingscheme}
+
+### Table of letter grades
+
+| Letter grade | Pre-Class Questions (PCQs) | Weekly Homeworks (WHWs) | Portfolio       | Unit tests (x3)       | Problem projects (x2)
+|--------------|----------------------------| ------------------------|-----------------|-----------------------| ----------------------|
+| D            | Complete 70%               | Earn 60% of points      | At least M on 4 problems | At least M on 1       | Optional (replaces a grade item)
+| C            | Complete 70%               | Earn 60% of points      | At least M on 6 problems | At least M on 2       | Optional (replaces a grade item)
+| B            | Complete 70%               | Earn 60% of points      | At least M on all problems, plus 1 E | At least M on all 3            | Must attempt one (replaces a grade item)
+| A            | Complete 70%               | Earn 60% of points      | At least M on all problems, plus 3 Es | At least M on all 3, plus E on at least 1  | Must achieve an M on one (replaces a grade item)
+
+: Letter grades {.striped .hover}
+
+
+### Bundle visualization 
+
+![](images/PHYS211_GradingBundles.png)
+
+### Grading scales
+::: panel-tabset
+#### Points
+Homeworks will be graded on a points scale: each WHW is worth 100 points, and you can earn a portion of those points by successfully and thoroughly solving the problem on the homework.
+
+#### Completion
+
+Pre-class questions will be graded on completion. What this means is that you must give a good-faith attempt at the problem, but do not need to get it correct. If you turn nothing in, or turn in something that is incomplete or unrelated, you will get no credit for the PCQ.
+
+#### E/M/U/N {#emun}
+Unit tests, individual final portfolio problems, and the two problem projects will be graded on the following scale:
+
+- E: excellent -- this is a thorough and correct answer that demonstrates excellent understanding of the concepts and makes proper use of the mathematical skills expected in this class.
+- M: meets expectations -- this is an answer that demonstrates solid understanding of the concepts but perhaps includes some small mathematical errors or minor conceptual mistakes.
+- U: unsatisfactory / does not meet expectations -- this is an answer that applies the concepts incorrectly, misunderstands the point of the question, does not complete the question, fails to follow directions, and/or contains significant mathematical errors
+- N: no submission -- if you turn nothing in, you will receive an N.
+
+E and M are considered passing grades. To get an A or B in this class, you must achieve some Es (see the [grading scheme](#gradingscheme))
+
+U and N are considered failing grades.
+
+
+:::
+
+
+### Grading bundles
+
+::: panel-tabset
+#### PCQs {#pcqs}
+
+In order to get the most out of class, you need to prepare. To do this, most days we will have a pre-class question due in Lyceum, which you must submit prior to class start. These are graded on completion, which simply means that you demonstrate a good-faith effort to solve the problem. You do not have to get it right, and we will go over the problem during class.
+
+Given the purpose of the PCQs, I will not offer extensions, except in case of a major medical or family emergency that causes you to miss class.
+
+#### WHWs {#whws}
+
+Regular problem-solving is very important to developing confidence and skill in this content, so every week you will have a short weekly problem set. You will turn in the weekly problem set by scanning and uploading as a PDF to Moodle. These are due by 8PM each Wednesday.
+
+5% of each homework is a reflection question, which means that simply responding to it will earn you the points, and each homework is graded out of 100 points. To pass this bundle (which is required to pass the class), you must earn 60% of all the available homework points throughout the semester. In general, the majority of questions will be on material covered on or before the Friday before the WHW is due, but there may be a question on material covered the Monday before the WHW is due. This means you should be able to complete most of the homework before Monday's class!
+
+You may work with classmates on the homework, but please be sure to give credit in your reflection question.
+
+You may request extensions on the WHWs using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6).
+
+
+#### Final Portfolio {#portfolio}
+The idea for this final portfolio assignment is to demonstrate what you have learned in the course and to create something for which you can take ownership and feel proud. We will get a lot of practice with problem solving this semester, and this is a chance to go back and curate some of what you have done. 
+
+The intended audience for this assignment is a fellow student who had not previously seen the homework questions you have chosen, but is curious to know how to solve them. For example, you could imagine yourself at the beginning of the semester, or a classmate earlier this semester who was unsure how to approach a problem. Would that intended audience be able to understand your approach and your logic? Would they feel empowered to learn based on what you have created for them?
+
+The assignment will involve redoing 8 homework questions (one from each homework assignment) in a manner that clearly presents the logic and reasoning behind your answers. It will be useful to restate the problem in your own words, clearly identifying known and unknown quantities. In many cases, it will be useful to draw a picture of the situation and to establish a clear coordinate system. You will then want to describe and demonstrate your approach to solving the problem. Once you arrive at an answer, it will also be helpful to reflect on the implications of that answer. This could include a consideration of how the answer depends on certain variables, or how the answer might be different for a slightly different situation.
+
+Each problem is graded on an [E/M/U/N scale](#emun), and an E and M are both considered passing grades.
+
+You may request an extension on the final portfolio using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that deadline cannot be extended beyond the end of final exam period.
+
+#### Unit tests {#tests}
+There will be three unit tests during class throughout this semester. The tests are cumulative, but they will largely focus on the more recent material. These tests will occur in class, and you may bring a single-sided 8.5"x11" sheet of paper with equations and notes - hand-written (please speak to me if you need to type the sheet and we will come up with a plan). This paper will be turned in with your test.
+
+These are graded on an [E/M/U/N scale](#emun), and you may retake each unit test up to two times during the scheduled make-up test days. In order to retake a unit test, you must first correct your first unit test and complete a short reflection in a [Google form](https://forms.gle/rfhtp2ALtBY8JFGT9).
+
+#### Problem Projects {#problemproject}
+
+The student becomes the teacher... you will have two opportunities to write a physics problem similar to your homework problems. You must:
+
+-   select at least one concept each from two different concept [groups](coursecontent.qmd#concepts)
+-   select one [mathematical tool](coursecontent.qmd#mathtools) to highlight
+-   write a physics problem that tests understanding of those concepts and uses the math tool
+-   write up a detailed solution to that problem using the [four-step problem solving method](coursecontent.qmd#fourstepmethod)
+-   explain how your problem tests understanding for the concepts you selected
+
+These are graded on an [E/M/U/N scale](#emun), and you may use each problem project score to replace one of the following:
+
+- your WHW score for the semester (an M or higher gives you full credit)
+- your PCQ score for the semester (an M or higher gives you full credit)
+- one unit test score
+- one final portfolio problem
+
+I will always replace the grade item that most benefits you, and will never replace a better score with a worse one. The Problem Projects can only help you.
+
+If you want to get a B in the class, you have to at least try a problem project, but you do not have to pass. To get an A in the class, you have to pass at least one problem project.
+
+If you do two problem projects, they must be different problems (you can't revise your first problem to get credit for the second problem.)
+
+You may request extensions on the problem projects using the [extension form](https://forms.gle/eFx7y7FoSdoukKGC6). Please note, however, that the final problem project cannot be extended beyond the end of final exam period.
+:::
+
+### Grading boosts
+
+::: panel-tabset
+#### Effort Boost
+
+If you complete 85% of pre-class questions, turn in every WHW assignment, turn in a complete portfolio, and attempt at least one problem project, you will gain a grade round up for effort, regardless of the outcome of your work.
+
+#### Problem-Solver Boost
+
+If you earn at least 90% of the available homework points, you will gain a grade round up for demonstrating strong, consistent problem-solving skills.
+
+#### Growth Boost
+
+If you demonstrate consistent improvement in your work across the semester, I reserve the right to round your grade up.
+
+
+#### Metacognition Boost
+
+In order to get this boost, you must do all of the following:
+
+  - Fill out the [mid-semester survey](https://forms.gle/K3kqhLWRtxuAd45U8) before class on 10/25
+  - Attend the SASC workshop during class on 10/25
+  - Attend at least one SASC Physics 211 help session and [fill out a response](https://forms.gle/qudMKQ4FJX76pBef9) about your experience
+  - Set a [SMART goal](https://docs.google.com/forms/d/e/1FAIpQLSfMTioS5vSv3KYcqxJR8C2WfCp9XX4KIKFMHYWWeeLbHjmJjw/viewform) (this will be evaluated on whether it meets the criteria) for a study skill to improve. You must do this before November 15.
+  - [Reflect on your goal](https://forms.gle/Cenw9TjhTMgz2qod7) at the end of the semester
+  
+:::
+
+## Deadlines and Extensions {#deadlines}
+If you need an extension, you may request one using [this form](https://forms.gle/eFx7y7FoSdoukKGC6). I recognize that things come up and you may require flexibility at some point in the semester. Please feel free to reach out to me directly if you are struggling to meet a deadline. I want to support you and make sure you have the best possible chance for success in this class, and the only way I can help is if you communicate with me.
+
+In general, I am happy to be flexible. Please note, however, that some assignments will have stricter deadlines. These assignments include the PCQs and the final portfolio and final problem project, and the nature of the deadlines is discussed in their descriptions above.
+
+
