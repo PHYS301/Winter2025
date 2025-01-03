@@ -35,7 +35,6 @@ website:
       style: "docked"
       background: light
       contents:
-       - coursecontent.qmd
        - resources.qmd
 
    

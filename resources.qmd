@@ -12,7 +12,7 @@ format:
 editor: source
 ---
 
-## Math and Physics Resources {#contentresources}
+## Content Resources {#contentresources}
 
 
 [Videos: Khan Academy's unit on multivariable calc](https://www.khanacademy.org/math/multivariable-calculus)
