@@ -14,8 +14,8 @@ editor: source
 ---
 ## When and where is class?
 
--   When: 
--   Where: 
+-   When: Monday, Wednesday, and Friday 9:30AM-10:50AM
+-   Where: Pettengill G52
 
 ## Where do I get my textbook?
 
@@ -29,27 +29,25 @@ To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.
 
 ## When are your office hours? {#officehours}
 
-Office hours:
+I will have two hours of office hours a week, plus time reserved in my schedule for one-on-one meetings. You can schedule the meetings through calendly (link in Lyceum).
 
--   Mondays 11AM-12PM in my research space
--   Wednesdays 4PM-5PM (right after class) in Carnegie 339
--   Thursdays 1:30PM-2:30PM in my research space
+Office hours will be scheduled after the first week of class, using input from the first week of class form to maximize the overlap in my schedule and all of yours (this will not be perfect, but I will do my best).
 
-If you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum.
+If you schedule a one-on-one meeting, it will be in my office. The location of my office and my research space are both in Lyceum, along with the calendly.
 
 ## Should I go to office hours? {#goingtoofficehours}
 
-Office hours are my open hours, when I have specifically set aside time to talk to my students (that's you!). Please always feel free to come by. You can ask questions about homework, concepts from class, projects, careers in physics, navigating the major, or anything else you want to ask. I will prioritize questions about course content, but I'm always happy to talk about other questions you might have.
+Office hours are my open hours, when I have specifically set aside time to talk to my students (that's you!). Please always feel free to come by. You can ask questions about homework, concepts from class, projects, careers in physics, navigating the major, or anything else you want to ask. I will prioritize questions about course content, but I'm always happy to talk about other questions you might have. This is true of the one-on-one meetings as well.
 
 ## Where do I find assignment instructions/course handouts/slides? {#findstuff}
 
-I created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class slides and/or recordings will all be in the course page on Lyceum.
+I created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class slides will all be in the course page on Lyceum.
 
 If you are enrolled in the class but do not have access to Lyceum, please let me know immediately so I can add you.
 
 ## When is \_\_ due? {#duedates}
 
-You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/1Oa5DOrJSYn9FjScxstXVl5GqbK4QU8z5TM0DqPHljqs/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
+You can find all due dates on the [course schedule](https://docs.google.com/spreadsheets/d/1ATIW9JOFjy4RrpkDDVlPmpAu8Xam2mlBBqe81dkcpiY/edit?usp=sharing). Dates are subject to change, but will always be kept up to date on the schedule so check back if you're not sure.
 
 ## Can I have an extension? {#extensionpolicy}
 
@@ -63,13 +61,15 @@ For more on my deadlines and extension policy, see the [syllabus](syllabus.qmd#d
 
 ## Can I re-do something I did poorly on? {#revisionpolicy}
 
-You can re-take the unit tests, but the rest of the assignments can only be submitted once.
+You can revise your quizzes if you receive an M or a U (you will also have to do a reflection, and the expectations on revised work are higher than on the original). You can also revise group problems (as a group), but only if you receive a U (Ms on group projects cannot be revised).
+
+PCQs and WHWs cannot be revised, nor can community engagement. You also cannot revise anything you don't turn in (receiving an N means you lose the chance to try again, so turn things in!).
 
 ## When will you reply to my email? {#emails}
 
 Timely communication is really important, but in order to be an effective instructor and a well-adjusted human, I also need to be able to take breaks from email.
 
-If you email me on a weekday, you can expect a response from me within 24 hours. If you email me on a weekend or a holiday, you can expect a response from me by class time on the first day back.
+If you email me on a weekday, you can expect a response from me within 48 hours. If you email me on a weekend or a holiday, you can expect a response from me by the end of the day on the first day back.
 
 
 ## Do you grade on a curve? {#gradingcurve}
