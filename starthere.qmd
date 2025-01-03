@@ -6,7 +6,7 @@ format:
 editor: source
 ---
 
-Welcome to PHYS 211, Fall 2024!
+Welcome to PHYS 301, Winter 2025!
 
 Not sure where to start? I've put together a guide.
 
@@ -14,15 +14,15 @@ This website contains the syllabus, schedule, and FAQ. If you are looking for ha
 
 # Get the textbook
 
-If you have not yet, please make sure you get the textbook for this class, which is "An Introduction to Mechanics, 2nd edition" by Kleppner & Kolenkow (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.
+If you have not yet, please make sure you get the textbook for this class, which is "Mathematical Methods in Engineering and Physics" (Wiley, 2016) by Felder and Felder. The library should have copies available, but you can also purchase it at the Bates bookstore.
 
-![](images/KandK.jpg){width=200}
+![](images/FelderFelder.jpg){width=200}
 
-It is very important that you get the second edition, as the pagination is different in other editions.
+To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.edu) and search for the course number or my name. Write down the book's call number and ask for it at the library.
 
 # Fill out the welcome form
 
-The first thing you should do for this class is fill out the [welcome form](https://forms.gle/b6iFdzaH4ZTQhY2G7). This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!
+The first thing you should do for this class is fill out the [welcome form](https://forms.gle/hgknPY8MbEc5tkcg9). This form is quick and should be completed by the end of the first week of class. It will help me to support you in this class and will only take a few minutes of your time!
 
 # Read the syllabus
 
@@ -30,7 +30,7 @@ I've tried to make the syllabus relatively short, sweet, and well-organized. It'
 
 # Keep an eye on the schedule
 
-The schedule for this class is in a [google doc](https://docs.google.com/spreadsheets/d/1Oa5DOrJSYn9FjScxstXVl5GqbK4QU8z5TM0DqPHljqs/edit?usp=sharing) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
+The schedule for this class is in a [google doc](https://docs.google.com/spreadsheets/d/1ATIW9JOFjy4RrpkDDVlPmpAu8Xam2mlBBqe81dkcpiY/edit?usp=sharing) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, I may move due dates or adjust readings or topics in the schedule. I will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
 
 # Still have questions?
 

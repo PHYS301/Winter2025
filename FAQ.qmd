@@ -19,11 +19,13 @@ editor: source
 
 ## Where do I get my textbook?
 
-The textbook for this class is "An Introduction to Mechanics, 2nd edition" by Kleppner & Kolenkow (Cambridge University Press). The library should have copies available, but you can also purchase it at the Bates bookstore.
+The textbook for this class is ""Mathematical Methods in Engineering and Physics" (Wiley, 2016) by Felder and Felder. The library should have copies available, but you can also purchase it at the Bates bookstore.
+
 
 To find the library copies, go to [librarysearch.bates.edu](librarysearch.bates.edu) and search for the course number or my name. Write down the book's call number and ask for it at the library.
 
-![](images/KandK.jpg){width=200}
+![](images/FelderFelder.jpg){width=200}
+
 
 ## When are your office hours? {#officehours}
 
