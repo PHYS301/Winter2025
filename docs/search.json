@@ -18,14 +18,14 @@
     "href": "index.html#course-objectives",
     "title": "PHYS 301 Winter 2025",
     "section": "Course Objectives",
-    "text": "Course Objectives\nBy the end of this course, you will be able to"
+    "text": "Course Objectives\nBy the end of this course, you will be able to\n\ndescribe scenarios mathematically using ODEs\napply various methods to solve linear, nonlinear, homogenous, and inhomogenous ODEs\nperform mathematical calculations with complex numbers and represent complex numbers in the complex plane\nwork with series expressions of functions and understand their limitations\ncalculate sums and products with matrices and vectors\nunderstand and work with important matrix properties such as inverses, determinants, and transposes\nfind the eigensystem of a matrix and apply it to solving systems of multiple linear equations\nset up and solve multidimensional integrals in the appropriate coordinate system\ntake vector and scalar derivatives of multivariable functions\nintegrate vector functions and apply them to scalar and vector fields\ntake a Fourier transform and understand its meaning\nrepresent a function as a Fourier series\napply separation of variables to solve partial differential equations"
   },
   {
     "objectID": "index.html#course-topics",
     "href": "index.html#course-topics",
     "title": "PHYS 301 Winter 2025",
     "section": "Course Topics",
-    "text": "Course Topics\nThis course covers the following content:\n\nTranslating a physical scenario into a mathematical equation"
+    "text": "Course Topics\nThis course covers the following content:\n\nMethods for solving ordinary differential equations\nComplex numbers and the complex plane\nSeries approximations\nMatrix operations\nEigensystems of matrices and their applications\nMultidimensional integrals in multiple coordinate systems\nVector derivatives and integrals of vector functions\nFourier series and transformations\nMethods for solving partial differential equations"
   },
   {
     "objectID": "resources.html",

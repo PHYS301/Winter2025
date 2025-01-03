@@ -24,7 +24,6 @@ I choose to include a land acknowledgment in my syllabus because the field of Ph
 
 If you want to know more about the status of Indigenous groups here in Maine, check out the work being done by [Wabanaki Reach](https://www.wabanakireach.org/).
 
-
 # About this course
 
 
@@ -36,10 +35,30 @@ You can see the PHYS 301 course description [here](https://phys301.github.io/).
 
 By the end of this course, you will be able to
 
--   
+-   describe scenarios mathematically using ODEs
+-   apply various methods to solve linear, nonlinear, homogenous, and inhomogenous ODEs
+-   perform mathematical calculations with complex numbers and represent complex numbers in the complex plane
+-   work with series expressions of functions and understand their limitations
+-   calculate sums and products with matrices and vectors
+-   understand and work with important matrix properties such as inverses, determinants, and transposes
+-   find the eigensystem of a matrix and apply it to solving systems of multiple linear equations
+-   set up and solve multidimensional integrals in the appropriate coordinate system
+-   take vector and scalar derivatives of multivariable functions
+-   integrate vector functions and apply them to scalar and vector fields
+-   take a Fourier transform and understand its meaning
+-   represent a function as a Fourier series
+-   apply separation of variables to solve partial differential equations
 
 ## Course Topics
 
 This course covers the following content:
 
--   Translating a physical scenario into a mathematical equation
+-   Methods for solving ordinary differential equations
+-   Complex numbers and the complex plane
+-   Series approximations
+-   Matrix operations
+-   Eigensystems of matrices and their applications
+-   Multidimensional integrals in multiple coordinate systems
+-   Vector derivatives and integrals of vector functions
+-   Fourier series and transformations
+-   Methods for solving partial differential equations
