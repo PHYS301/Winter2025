@@ -77,9 +77,9 @@ You can learn more about each bundle below:
 | Letter grade | Pre-Class Questions (PCQs) | Weekly Homeworks (WHWs) | Group Problems (x12)              | Quizzes (x10)                     | Community Engagement
 |--------------|----------------------------| ------------------------|-----------------------------------|-----------------------------------| --------------------------|
 | D            | Earn 75% of points         | Earn 75% of points      | At least M on 6                   | At least M on 5                   | At least M on 1 module
-| C            | Earn 75% of points         | Earn 75% of points      | At least M on 9                   | At least M on 8                   | At least M on 2 modules
-| B            | Earn 75% of points         | Earn 75% of points      | At least M on all 12, plus 2 Es   | At least M on all 12, plus 2 Es   | At least M on all 3 modules
-| A            | Earn 75% of points         | Earn 75% of points      | At least M on all 12, plus 4 Es   | At least M on all 12, plus 4 Es   | At least M on all 3 modules
+| C            | Earn 75% of points         | Earn 75% of points      | At least M on 9                   | At least M on 7                   | At least M on 2 modules
+| B            | Earn 75% of points         | Earn 75% of points      | At least M on all 12              | At least M on 9, plus 2 Es        | At least M on all 3 modules
+| A            | Earn 75% of points         | Earn 75% of points      | At least M on all 12, plus 2 Es   | At least M on all 10, plus 4 Es   | At least M on all 3 modules
 
 : Letter grades {.striped .hover}
 
